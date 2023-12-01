@@ -1,5 +1,5 @@
-#a cifra de ceaser consiste que apartir de um de uma chave 
-# modificamos o a letra do alfabeto 
+#a cifra de ceaser consiste que apartir de um valor de uma chave 
+# modificamos o a letra que consite naquela posiçãp do alfabeto 
 # exemplo
 #key = 5
 #entao
