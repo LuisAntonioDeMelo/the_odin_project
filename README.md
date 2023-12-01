@@ -8,8 +8,9 @@
  - Input and Output
  - Conditional Logic
  - Loops
+ - Arrays
+ - Algoritms and Cyphers
  - ...
-
 <br/>
 https://www.theodinproject.com/ 
 <br/> 
