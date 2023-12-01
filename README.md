@@ -1,4 +1,4 @@
-# the_odin_project 
+# The Odin Project
 ## Ruby exercices 
  - How This Course Will Work
  - Installing Ruby
