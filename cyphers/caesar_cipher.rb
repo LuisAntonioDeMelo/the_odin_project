@@ -4,3 +4,6 @@
 #key = 5
 #entao
 #'A' + 5 = 'F'
+caesar_cipher("What a string!", 5)
+
+result = "Bmfy f xywnsl!"

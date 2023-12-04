@@ -1,3 +1,4 @@
+#gem install pry-byebug
 require 'pry-byebug'
 
 def isogram?(string)
@@ -12,4 +13,19 @@ def isogram?(string)
 end
 
 isogram?("Odin")
+
+
+require 'pry-byebug'
+
+def yell_greeting(string)
+  name = string
+
+  binding.pry #cria um breakpoint
+
+  name = name.upcase
+  greeting = "WASSAP, #{name}!"
+  puts greeting
+end
+
+yell_greeting("bob")
 
