@@ -15,11 +15,13 @@ Basics
 - Arrays
 - Hashes
 - Debugging
-- ...
+- Methods
+- Lambdas and Enumerables
+- Nested collections
 
 Algoritms and Cyphers
 
--
+- Ceaser cypher
 
 `<br/>`
 https://www.theodinproject.com/
