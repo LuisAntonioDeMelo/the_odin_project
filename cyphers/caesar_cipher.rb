@@ -1,8 +1,8 @@
 # exemplo
 #key = 5
 #'A' + 5 = 'F'
-#solution 1
 
+#solution >>>>
 def cipher(string, shift = 1) 
   alfabeto = ("a".."z").to_a
   ceaser =  ""
@@ -37,6 +37,7 @@ def caesar_cipher(string, shift)
   return new_string.join("")
 end
 
+puts cipher("A", 1)
 puts cipher("What a string!", 5)
 puts caesar_cipher("What a string!", 5)
 
